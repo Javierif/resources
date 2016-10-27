@@ -9,4 +9,4 @@ https://drive.google.com/open?id=0B05NC2grKF6_WWxMT2NCakpFLUU -> libro de cirber
 https://openwebinars.net/hacking-tutorial-busquedas-con-google-dorks/ -> Curso de hacking con busquedas en google.
 
 #Stalkeo like a champion
-https://chrome.google.com/webstore/detail/facebook-stalker-pro/cmkncfehmjgickeaiflfnfgfekjkcobf?hl=es
+https://chrome.google.com/webstore/detail/facebook-stalker-pro/cmkncfehmjgickeaiflfnfgfekjkcobf?hl=es -> extensión chrome para stalkeo de facebook
