@@ -10,7 +10,7 @@ https://emkei.cz/ -> Fake email
 http://www.geocreepy.com/ -> Herramienta OSINT sirve para recoger información de geolocalización de a través de distintas redes sociales.
 
 
-#CURSOS
+# CURSOS
 https://www.fwhibbit.es/curso-hacking-etico-fase-de-escaneo -> Curso de hacking etico escaneo
 https://openwebinars.net/hacking-tutorial-busquedas-con-google-dorks/ -> Curso de hacking con busquedas en google.
 
