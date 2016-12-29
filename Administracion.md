@@ -14,6 +14,3 @@ http://www.geocreepy.com/ -> Herramienta OSINT sirve para recoger información d
 https://www.fwhibbit.es/curso-hacking-etico-fase-de-escaneo -> Curso de hacking etico escaneo
 https://openwebinars.net/hacking-tutorial-busquedas-con-google-dorks/ -> Curso de hacking con busquedas en google.
 
-
-#Stalkeo like a champion
-https://chrome.google.com/webstore/detail/facebook-stalker-pro/cmkncfehmjgickeaiflfnfgfekjkcobf?hl=es -> extensión chrome para stalkeo de facebook
